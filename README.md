@@ -36,5 +36,5 @@ This will help us to:
 - Create targeted strategies to increase company revenue.
 
 ## Example Output
-![Sample Visualization]("https://github.com/user-attachments/assets/512d80ca-25b1-41d8-870e-e88e5e33cafe")
+![Sample Visualization]("https://github.com/user-attachments/assets/5728890a-7072-427f-b77d-4babcb218da0")
 
